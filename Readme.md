@@ -1,16 +1,18 @@
 in this project you can find the solution for the assissment programming_002
 it containg a command line app + webpage + test scripts + npm package
 
+after cloning the project and installing the dependencies (using npm install)
+
 you can find the run and test command in the main package.json
 the jest tests scripts are in tests folder
 the webpage is inside docs folder
 and the npm package is inside the npm_package folder
 
-the published npm package url is : https://www.npmjs.com/package/con3x_002 \n
+the published npm package url is : https://www.npmjs.com/package/con3x_002 
 
-the project repo on github url is : https://github.com/WessamJuby/Con3x_Assisment \n
+the project repo on github url is : https://github.com/WessamJuby/Con3x_Assisment 
 
-the webpage on hosted on github is : https://wessamjuby.github.io/ \n
+the webpage on hosted on github is : https://wessamjuby.github.io/ 
 
 tests are runing on github actions after each push/pull request :
 ![shows the tests result on github actions](image.png)
