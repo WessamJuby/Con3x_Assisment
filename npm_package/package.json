@@ -1,0 +1,15 @@
+{
+  "name": "con3x_002",
+  "version": "1.0.1",
+  "description": "",
+  "main": "commons.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "web3": "^4.6.0"
+  }
+}
