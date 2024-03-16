@@ -3,7 +3,7 @@ it containg a command line app + webpage + test scripts + npm package
 
 you can find the run and test command in the main package.json
 the jest tests scripts are in tests folder
-the webpage is inside webpage folder
+the webpage is inside docs folder
 and the npm package is inside the npm_package folder
 
 the published npm package url is : https://www.npmjs.com/package/con3x_002
